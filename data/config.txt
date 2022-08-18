@@ -1,0 +1,1 @@
+{"mot":1,"pos":0,"pos_m1":0,"pos_m2":0,"pos_m3":0,"deb":1,"res":0,"kp":0.4,"ki":0.0001,"kd":9.999999e-6,"wifi_ssid":"PRAX","wifi_pw":"4160233293075903","iref":5120,"tint":64}
